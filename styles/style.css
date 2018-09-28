@@ -69,7 +69,7 @@ fieldset {
 
 .filter-label {
     display: block;
-    padding: 0.5em;
+    padding: 1em;
 }
 
 input {
@@ -155,6 +155,7 @@ input[type="checkbox"] {
 
 input[type="radio"] {
     width: auto;
+    display: inline-block;
 }
 
 input[type="submit"] {
